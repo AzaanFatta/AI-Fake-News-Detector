@@ -3,6 +3,7 @@
 This repository contains our final project for **CAP 4630 042 – Intro to Artificial Intelligence** class.  
 Our goal is to build a simple AI model that classifies news headlines as **Fake** or **Real** using Natural Language Processing (NLP) and machine learning.
 - The final and complete version of this project is "Fake_News_Detector_V6.ipynb".
+- Recorded Presentation: https://youtu.be/IlczHIGsbIY
 
 ---
 
